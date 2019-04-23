@@ -1,3 +1,11 @@
+
+# Introduction
+
+版本1：React 实现
+版本2：React + Redux + AntD 实现
+版本3：React-Redux实现
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
